@@ -1,2 +1,2 @@
-# Tarea_Clase10
-contiene la resolución del último ejercicio de la Clase 10
+# Contiene ejemplos de la especialización en ciencia de datos
+
